@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>Welocme to Demo Next js project</h1>
+        <h1 className={styles.title}>This is only for preview</h1>
 
         <p className={styles.description}>
           Get started by editing{' '}
